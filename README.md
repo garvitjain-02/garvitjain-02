@@ -34,5 +34,6 @@ Here's a snapshot of what I bring to the table:
 - Acquired practical skills and theoretical knowledge in machine learning.
 
 Let's connect and create something amazing together! ✨
-
-![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=garvitjain-02&show_icons=true&theme=radical)
+<!--
+![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=garvitjain-02&show_icons=true&theme=radical) \
+-->
