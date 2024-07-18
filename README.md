@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an AI & Machine Learning enthusiast and a codi
 
 ## Skills
 
-Here's a snapshot of what I bring to the table:
+### I'm happy to learn and discuss the following⚡
 - **Languages:** C, C++, Python, HTML, CSS, JavaScript, SQL
 - **Data Analysis:** Numpy, Pandas, Matplotlib
 - **Machine Learning:** Key concepts & Supervised ML algorithms
