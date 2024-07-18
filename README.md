@@ -1,8 +1,8 @@
-# <h1 align="center">Hey there! 👋 I'm Garvit Jain</h1>
+# <h1 align="center">Hey there! <span class="wave">👋</span> I'm Garvit Jain</h1>
 
-Welcome to my GitHub profile! I'm an AI & Machine Learning enthusiast and a coding lover, currently diving deep into Machine Learning and its fascinating world. Let's explore my journey and projects together! 🚀
+Welcome to my GitHub profile! I'm an AI & Machine Learning enthusiast and a coding lover, currently diving deep into technology and its fascinating world. Let's explore my journey and projects together! 🚀
 
-- 🔭 Currently working on: Learning ML Algorithms and DSA.
+- 🔭 Currently working on Learning ML Algorithms and DSA.
 - 🌱 Currently learning: Advanced Machine Learning techniques at Amazon ML Summer School '24.
 - 👯 Looking to collaborate on: Innovative projects in DSA and Machine Learning.
 - 💬 Ask me about: Python, C++, Machine Learning, DSA
@@ -32,6 +32,8 @@ Here's a snapshot of what I bring to the table:
 ### Amazon ML Summer School 2024 | Trainee
 - Enrolled in comprehensive 4-week coursework covering supervised learning, deep neural networks, and more.
 - Acquired practical skills and theoretical knowledge in machine learning.
+
+Show some ❤️ by starring some of the repositories! 
 
 Let's connect and create something amazing together! ✨
 <!--
