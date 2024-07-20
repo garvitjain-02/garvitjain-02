@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm an AI & Machine Learning enthusiast and a coding lover, currently diving deep into technology and its fascinating world. Let's explore my journey and projects together! 🚀
 
+![](https://komarev.com/ghpvc/?username=garvitjain-02)
 - 🔭 Currently working on Learning ML Algorithms and DSA.
 - 🌱 Currently learning: Advanced Machine Learning techniques at Amazon ML Summer School '24.
 - 👯 Looking to collaborate on: Innovative projects in DSA and Machine Learning.
