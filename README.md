@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm an AI & Machine Learning enthusiast and a codi
 - **Machine Learning:** Key concepts & Supervised ML algorithms
 - **Tools & Utilities:** Git/GitHub, VS Code, Pycharm
 
+<!--
 ## Projects
 ### Machine Learning Algorithms 🤖
 🔗 [GitHub](https://github.com/garvitjain-02/Machine-Learning-Algorithms)
@@ -27,7 +28,7 @@ Welcome to my GitHub profile! I'm an AI & Machine Learning enthusiast and a codi
 🔗 [GitHub](https://github.com/garvitjain-02/JARVIS-Voice-Assistant)
 - Developed a Python-based desktop voice assistant capable of handling 50+ commands with high accuracy.
 - Features include web automation, joke generation, weather updates, news headlines, and application launching.
-
+-->
 ## Experience
 
 ### Amazon ML Summer School 2024 | Trainee
