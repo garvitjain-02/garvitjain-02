@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm an AI & Machine Learning enthusiast and a coding lover, currently diving deep into technology and its fascinating world. Let's explore my journey and projects together! 🚀
 
 ![](https://komarev.com/ghpvc/?username=garvitjain-02)
-- 🔭 Currently working on Learning ML Algorithms and DSA.
-- 🌱 Currently learning: Advanced Machine Learning techniques at Amazon ML Summer School '24.
+<!-- - 🔭 Currently working on Learning ML Algorithms and DSA. -->
+- 🌱 Currently learning: Natural Language Processing (NLP)
 - 👯 Looking to collaborate on: Innovative projects in DSA and Machine Learning.
 - 💬 Ask me about: Python, C++, Machine Learning, DSA
 - 📫 How to reach me: [Email](mailto:garvitjainjnv@gmail.com) | [LinkedIn](https://www.linkedin.com/in/garvit-jain-499b40257/)
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an AI & Machine Learning enthusiast and a codi
 ### I'm happy to learn and discuss the following⚡
 - **Languages:** C, C++, Python, HTML, CSS, JavaScript, SQL
 - **Data Analysis:** Numpy, Pandas, Matplotlib
-- **Machine Learning:** Key concepts & Supervised ML algorithms
+- **Machine Learning:** Key concepts & ML algorithms
 - **Tools & Utilities:** Git/GitHub, VS Code, Pycharm
 
 <!--
