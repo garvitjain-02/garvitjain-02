@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm an AI & Machine Learning enthusiast and a codi
 <li><a target="_blank" href="https://github.com/garvitjain-02/Seq2Seq-Research-Paper-Implementation">Seq2Seq Research Paper Implementation</a></li>
 </ul>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/jaingarvit02" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/garvit-jain-499b40257/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://x.com/jaingarvit02" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/garvit-jain-499b40257/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <!--
 ## Projects
